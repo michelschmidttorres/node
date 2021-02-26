@@ -1,0 +1,20 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "primeiro",
+  "main": "funcionarios.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palavra1",
+    "palavra2"
+  ],
+  "author": "Michel Torres",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
